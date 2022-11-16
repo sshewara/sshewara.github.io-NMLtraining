@@ -1,7 +1,10 @@
-This page provides entry-level bioinformatic tutorials for genomics and bioinformatics created by The National Microbiology Laboratory at the Public Health Agency of Canada. 
+This page provides entry-level bioinformatic tutorials for genomics and bioinformatics created by The National Microbiology Laboratory (NML) at the Public Health Agency of Canada. 
 
-## NML Content
- * [Suggested syllabus](syllabus.md)
+## Suggested syllabus for training
+ * [Syllabus for beginners](syllabus_beg.md)
+ * [Syllabus for advanced users](syllabus_beg.md)
+
+## NML courses
  * [Intro](intro.md)
  
 ## Publicly available resources for further training 
