@@ -5,5 +5,8 @@ This page provides entry-level bioinformatic tutorials for genomics and bioinfor
  * [Intro](intro.md)
  
 ## Publicly available resources for further training 
+
+All material listed below is free to use. 
+
  * [Resources](resources.md)
  
