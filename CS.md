@@ -2,7 +2,7 @@
 
 - SIB Swiss Institute of Bioinformatics ['Introduction to Containers'](https://sib-swiss.github.io/containers-introduction-training/2022.4/course_material/introduction_containers/) course
 - Microsoft ['Azure Container Registry training'](https://docs.microsoft.com/en-us/azure/container-registry/)
--
+
 ## Docker
 
 - Carpentries Incubator  ['Introduction to Docker'](https://carpentries-incubator.github.io/docker-introduction/) tutorial
