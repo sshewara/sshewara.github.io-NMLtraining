@@ -22,8 +22,9 @@
 ## Data Visualization with R
 
 - Rstudio Conference 20022 ['Graphic Design with ggplot2'](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/) workshop
-- - Harvard Chan Bioinformatics Core  ['Data Wrangling and Visualization with Tidyverse'](https://github.com/hbctraining/Training-modules/tree/master/Tidyverse_ggplot2) course
--
+- Harvard Chan Bioinformatics Core  ['Data Wrangling and Visualization with Tidyverse'](https://github.com/hbctraining/Training-modules/tree/master/Tidyverse_ggplot2) course
+- [ggplot2 cheat sheet](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf)
+
 ## R markdown
 
 - ['Introduction to R markdown'](https://ourcodingclub.github.io/tutorials/rmarkdown/) tutorial
