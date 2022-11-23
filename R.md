@@ -30,4 +30,4 @@
 - ['Introduction to R markdown'](https://ourcodingclub.github.io/tutorials/rmarkdown/) tutorial
 - ['R Markdown: The Definitive Guide'](https://bookdown.org/yihui/rmarkdown/) online book
 - ['](https://bookdown.org/yihui/rmarkdown-cookbook/)[R markdown cookbook'](https://bookdown.org/yihui/rmarkdown-cookbook/) online book
-- NHS ['Rmarkdown: reproducible reporting'](https://jthomasmock.github.io/rmd-nhs) presentation
+- NHS ['R markdown: reproducible reporting'](https://jthomasmock.github.io/rmd-nhs) presentation
