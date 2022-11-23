@@ -9,7 +9,7 @@
 ## Unix
 
 - Carpentries ['The Unix Shell'](https://swcarpentry.github.io/shell-novice/) tutorial
-- - Bioinformatics Workbook ['Introduction to Unix' course](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0)
+- Bioinformatics Workbook ['Introduction to Unix' course](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0)
 - [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs)
 - [Explainshell](https://explainshell.com/)online Shell help
 - [LearnShell](https://www.learnshell.org/) interactive Shell Programming tutorial
