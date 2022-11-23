@@ -9,3 +9,5 @@
 - [NGS Sequence Analysis](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)
 - [List](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) of resources for bioinformatics, R, data analysis, data visualization, machine learning, databases, machine learning etc.
 - Uppsala ['Tools for reproducible research'](https://uppsala.instructure.com/courses/51980) courses – courses on data management, Git, Conda, Snakemake, Nextflow, Jupyter, Docker and Singularity.
+
+- [List of cheat sheets](https://github.com/detailyang/awesome-cheatsheet) for various languages and tools
