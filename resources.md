@@ -4,7 +4,19 @@ This document contains a curated list of free to use bioinformatics training mat
 
 Is your favourite course not on this list? Is a link dead? Please email [sonal.shewaramani@phac-aspc.gc.ca](mailto:sonal.shewaramani@phac-aspc.gc.ca) with any questions and/or feedback.
 
-## General introduction to bioinformatics, languages and data analysis
+* [General introduction to bioinformatics, languages and data analysis](General.md)
+* [Galaxy](Galaxy.md)
+* [Genomics](Genomics.md)
+* [Long Read Bioinformatics](LRB.md)
+* [High Performance Computing](HPC.md)
+* [Command Line and Command Line Interfaces](Command Line.md)
+* [R andd R Studio](R.md)
+* [Python](Python.md)
+* [Git and Github](Git.md)
+* [Container Sytems](CS.md)
+* [Workflow Management Systems](WFM.md)
+* [Data Management and Experimental Design](DM.md)
+
 
 - [Babraham Bioinformatics Training](https://www.bioinformatics.babraham.ac.uk/training.html) - various tutorials with exercises for Linux, R, Perl, Python, statistics, etc.
 - [EMBL-EBI Training](https://www.ebi.ac.uk/training/on-demand) – various webinars and tutorials for sequencing and analysis
@@ -28,6 +40,7 @@ Is your favourite course not on this list? Is a link dead? Please email [sonal.s
 - University of Exeter DNA sequencing service ['Introduction to Genomics'](https://biomedicalhub.github.io/genomics/) tutorial
 - Data Carpentry '[Project Organization and Management for Genomics](https://datacarpentry.org/organization-genomics/)' tutorial
 - ['Introduction to bacterial genome assembly'](https://github.com/rrwick/Trycycler/wiki/Guide-to-bacterial-genome-assembly)tutorial
+
 - Tim Kahlke ['Introduction to Long Read Data Analysis'](https://timkahlke.github.io/LongRead_tutorials/) tutorial
 - de.NBI [Nanopore Training](https://denbi-nanopore-training-course.readthedocs.io/en/latest/) course
 
