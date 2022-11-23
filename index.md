@@ -3,6 +3,6 @@ This page provides entry-level bioinformatic tutorials for genomics and bioinfor
 ## NML courses 
  * [NML courses](NML.md)
  
-## Publicly available, free resources for further training 
+## Publicly available esources for further training 
  * [Resources](resources.md)
  
