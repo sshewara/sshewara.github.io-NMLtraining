@@ -1,6 +1,4 @@
 
-# NML Genomics and Bioinformatics training
-
 This page provides entry-level tutorials for genomics and bioinformatics created by The National Microbiology Laboratory (NML) at the Public Health Agency of Canada. 
 
 ## Biology courses
