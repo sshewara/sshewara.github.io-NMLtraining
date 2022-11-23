@@ -14,3 +14,5 @@
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python cheat sheet](https://www.pythoncheatsheet.org/)
 - [Curated list](https://learnbyexample.github.io/py_resources/) of other Python resources
+- [Python cheat sheet](https://www.pythoncheatsheet.org/)
+- [Shell and python commands](https://practicalcomputing.org/files/PCfB_Appendices.pdf)
