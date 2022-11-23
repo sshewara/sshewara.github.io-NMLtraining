@@ -21,7 +21,6 @@ This page provides entry-level tutorials for genomics and bioinformatics created
 * [Bioinformatics 102](Bfx2.md) - The bioinformatics environment 
 * [Bioinformatics 103](Bfx3.md) - The basics of bioinformatics including alignments, assembly and read mapping
  
-
  ## Suggested coourses for general training in genomics:
  * Biology 101: Introduction; covers basic biological terms and serves as the building clock for the rest of the courses
  * Biology 102: Prokaryote Genetics; covers the genetics of microbes
