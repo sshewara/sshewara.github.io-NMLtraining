@@ -3,6 +3,8 @@
 - Carpentries   ['Introduction to the Command Line for Genomics'](https://datacarpentry.org/shell-genomics/) tutorial
 - Harvard Chan Bioinformatics Core ['Introduction to the command line interface'](https://hbctraining.github.io/Training-modules/Intro_shell/) course
 - Joshua Levy ['The Art of the Command Line'](https://github.com/jlevy/the-art-of-command-line) tutorial
+-  Handy [bioinformatics one liners](https://github.com/crazyhottommy/oneliners)
+-  [Shell cheat sheet](https://practicalcomputing.org/files/PCfB_Appendices.pdf)
 
 ## Unix
 
