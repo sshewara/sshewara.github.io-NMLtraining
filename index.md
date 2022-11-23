@@ -43,6 +43,6 @@ This page provides entry-level tutorials for genomics and bioinformatics created
  * Bioinformatics 102: The Bioinformatics Environment; covers what it is and an overview of the computing environment of bioinformatics software and an introduction to file formats used 
  * Bioinformatics 103: Bioinformatics Basics; covers the basics of bioinformatics
  
-## Publicly available esources for further training 
- * [Resources](resources.md)
+## [Publicly available esources for further training](resources.md)
+
  
