@@ -9,6 +9,7 @@
 - ['](https://milesmcbain.github.io/git_4_sci/)[Git for Scientists'](https://milesmcbain.github.io/git_4_sci/) course
 - [Learn Git](https://gitexercises.fracz.com/) exercises
 - [Fixing or removing comments in Git](https://sethrobertson.github.io/GitFixUm/fixup.html)
+- [Git cheat sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 ## GitHub
 
@@ -19,3 +20,5 @@
 - [Git cheat sheet](https://github.com/arslanbilal/git-cheat-sheet)
 - [GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 - [Curated list](https://learnbyexample.github.io/curated_resources/git_and_github.html) of other Git and GitHub resources
+- [GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+
