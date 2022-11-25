@@ -4,7 +4,7 @@ This introduction to biological concepts lecture covers evolution, phylogenetics
 
 The course is suited to trainees interested in understanding basic biological principles.
 
-## Course learning outcomes
+**Course learning outcomes**
 
 After this course you should be able to:
 
@@ -13,4 +13,4 @@ After this course you should be able to:
 * Describe the differences between eukaryotes, prokaryotes and viruses
 
 
-[Biology 101](Bio1vid.md) lecture video
+[Biology 101 video](Bio1vid.md)
